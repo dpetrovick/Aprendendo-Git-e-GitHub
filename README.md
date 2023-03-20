@@ -1,4 +1,4 @@
-# Aprendendo Git GitHub
+# Aprendendo Git e GitHub
 
 Teste de repositório
 
